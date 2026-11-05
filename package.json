@@ -1,0 +1,19 @@
+{
+  "name": "eiaa-website",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Laravel and Blade website for Excellence Impact African Awards (EIAA), phase 1.",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.10",
+    "autoprefixer": "10.4.20",
+    "postcss": "8.4.47",
+    "tailwindcss": "3.4.13",
+    "vite": "^6.0.0",
+    "laravel-vite-plugin": "^1.2.0"
+  }
+}

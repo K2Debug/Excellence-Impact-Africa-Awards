@@ -1,0 +1,1402 @@
+[
+    {
+        "cluster":  "Grand Honours (flagship awards)",
+        "number":  1,
+        "name":  "EIAA Lifetime Achievement Award",
+        "people_choice":  false,
+        "slug":  "eiaa-lifetime-achievement-award"
+    },
+    {
+        "cluster":  "Grand Honours (flagship awards)",
+        "number":  2,
+        "name":  "Africa Impact Personality of the Year",
+        "people_choice":  false,
+        "slug":  "africa-impact-personality-of-the-year"
+    },
+    {
+        "cluster":  "Grand Honours (flagship awards)",
+        "number":  3,
+        "name":  "EIAA Icon of Excellence Award",
+        "people_choice":  false,
+        "slug":  "eiaa-icon-of-excellence-award"
+    },
+    {
+        "cluster":  "Grand Honours (flagship awards)",
+        "number":  4,
+        "name":  "Pan-African Unity Award",
+        "people_choice":  false,
+        "slug":  "pan-african-unity-award"
+    },
+    {
+        "cluster":  "Grand Honours (flagship awards)",
+        "number":  5,
+        "name":  "Africa Visionary Leader of the Year",
+        "people_choice":  false,
+        "slug":  "africa-visionary-leader-of-the-year"
+    },
+    {
+        "cluster":  "Grand Honours (flagship awards)",
+        "number":  6,
+        "name":  "Most Impactful Organisation of the Year",
+        "people_choice":  false,
+        "slug":  "most-impactful-organisation-of-the-year"
+    },
+    {
+        "cluster":  "Grand Honours (flagship awards)",
+        "number":  7,
+        "name":  "Diaspora Excellence Award",
+        "people_choice":  false,
+        "slug":  "diaspora-excellence-award"
+    },
+    {
+        "cluster":  "Grand Honours (flagship awards)",
+        "number":  8,
+        "name":  "EnnyCOE Founder\u0027s Award for Excellence",
+        "people_choice":  false,
+        "slug":  "ennycoe-founder-s-award-for-excellence"
+    },
+    {
+        "cluster":  "Grand Honours (flagship awards)",
+        "number":  9,
+        "name":  "Africa Rising Star of the Year",
+        "people_choice":  true,
+        "slug":  "africa-rising-star-of-the-year"
+    },
+    {
+        "cluster":  "Grand Honours (flagship awards)",
+        "number":  10,
+        "name":  "Legacy \u0026 Heritage Honour (Posthumous)",
+        "people_choice":  false,
+        "slug":  "legacy-heritage-honour-posthumous"
+    },
+    {
+        "cluster":  "Leadership, Governance \u0026 Public Service",
+        "number":  11,
+        "name":  "Governance \u0026 Policy Excellence Award",
+        "people_choice":  false,
+        "slug":  "governance-policy-excellence-award"
+    },
+    {
+        "cluster":  "Leadership, Governance \u0026 Public Service",
+        "number":  12,
+        "name":  "Outstanding Public Servant of the Year",
+        "people_choice":  false,
+        "slug":  "outstanding-public-servant-of-the-year"
+    },
+    {
+        "cluster":  "Leadership, Governance \u0026 Public Service",
+        "number":  13,
+        "name":  "Transformational Local Government Leader",
+        "people_choice":  false,
+        "slug":  "transformational-local-government-leader"
+    },
+    {
+        "cluster":  "Leadership, Governance \u0026 Public Service",
+        "number":  14,
+        "name":  "Integrity \u0026 Anti-Corruption Champion",
+        "people_choice":  false,
+        "slug":  "integrity-anti-corruption-champion"
+    },
+    {
+        "cluster":  "Leadership, Governance \u0026 Public Service",
+        "number":  15,
+        "name":  "Peace \u0026 Reconciliation Award",
+        "people_choice":  false,
+        "slug":  "peace-reconciliation-award"
+    },
+    {
+        "cluster":  "Leadership, Governance \u0026 Public Service",
+        "number":  16,
+        "name":  "Diplomatic Excellence Award",
+        "people_choice":  false,
+        "slug":  "diplomatic-excellence-award"
+    },
+    {
+        "cluster":  "Leadership, Governance \u0026 Public Service",
+        "number":  17,
+        "name":  "Rule of Law \u0026 Access to Justice Award",
+        "people_choice":  false,
+        "slug":  "rule-of-law-access-to-justice-award"
+    },
+    {
+        "cluster":  "Leadership, Governance \u0026 Public Service",
+        "number":  18,
+        "name":  "Public Sector Innovation Award",
+        "people_choice":  false,
+        "slug":  "public-sector-innovation-award"
+    },
+    {
+        "cluster":  "Leadership, Governance \u0026 Public Service",
+        "number":  19,
+        "name":  "Security \u0026 Public Safety Excellence Award",
+        "people_choice":  false,
+        "slug":  "security-public-safety-excellence-award"
+    },
+    {
+        "cluster":  "Leadership, Governance \u0026 Public Service",
+        "number":  20,
+        "name":  "Human Rights Defender Award",
+        "people_choice":  false,
+        "slug":  "human-rights-defender-award"
+    },
+    {
+        "cluster":  "Leadership, Governance \u0026 Public Service",
+        "number":  21,
+        "name":  "CEO of the Year",
+        "people_choice":  false,
+        "slug":  "ceo-of-the-year"
+    },
+    {
+        "cluster":  "Leadership, Governance \u0026 Public Service",
+        "number":  22,
+        "name":  "Servant Leadership Award",
+        "people_choice":  false,
+        "slug":  "servant-leadership-award"
+    },
+    {
+        "cluster":  "Leadership, Governance \u0026 Public Service",
+        "number":  23,
+        "name":  "Parliamentary Excellence Award",
+        "people_choice":  false,
+        "slug":  "parliamentary-excellence-award"
+    },
+    {
+        "cluster":  "Leadership, Governance \u0026 Public Service",
+        "number":  24,
+        "name":  "Institutional Excellence Award",
+        "people_choice":  false,
+        "slug":  "institutional-excellence-award"
+    },
+    {
+        "cluster":  "Business \u0026 Entrepreneurship",
+        "number":  25,
+        "name":  "Entrepreneur of the Year",
+        "people_choice":  false,
+        "slug":  "entrepreneur-of-the-year"
+    },
+    {
+        "cluster":  "Business \u0026 Entrepreneurship",
+        "number":  26,
+        "name":  "Young Entrepreneur Award",
+        "people_choice":  false,
+        "slug":  "young-entrepreneur-award"
+    },
+    {
+        "cluster":  "Business \u0026 Entrepreneurship",
+        "number":  27,
+        "name":  "SME of the Year",
+        "people_choice":  false,
+        "slug":  "sme-of-the-year"
+    },
+    {
+        "cluster":  "Business \u0026 Entrepreneurship",
+        "number":  28,
+        "name":  "Startup of the Year",
+        "people_choice":  true,
+        "slug":  "startup-of-the-year"
+    },
+    {
+        "cluster":  "Business \u0026 Entrepreneurship",
+        "number":  29,
+        "name":  "Family Business Excellence Award",
+        "people_choice":  false,
+        "slug":  "family-business-excellence-award"
+    },
+    {
+        "cluster":  "Business \u0026 Entrepreneurship",
+        "number":  30,
+        "name":  "Made in Africa Product of the Year",
+        "people_choice":  true,
+        "slug":  "made-in-africa-product-of-the-year"
+    },
+    {
+        "cluster":  "Business \u0026 Entrepreneurship",
+        "number":  31,
+        "name":  "Manufacturing Excellence Award",
+        "people_choice":  false,
+        "slug":  "manufacturing-excellence-award"
+    },
+    {
+        "cluster":  "Business \u0026 Entrepreneurship",
+        "number":  32,
+        "name":  "Best Employer of the Year",
+        "people_choice":  false,
+        "slug":  "best-employer-of-the-year"
+    },
+    {
+        "cluster":  "Business \u0026 Entrepreneurship",
+        "number":  33,
+        "name":  "Corporate Social Responsibility (CSR) Excellence Award",
+        "people_choice":  false,
+        "slug":  "corporate-social-responsibility-csr-excellence-award"
+    },
+    {
+        "cluster":  "Business \u0026 Entrepreneurship",
+        "number":  34,
+        "name":  "Customer Service Excellence Award",
+        "people_choice":  true,
+        "slug":  "customer-service-excellence-award"
+    },
+    {
+        "cluster":  "Business \u0026 Entrepreneurship",
+        "number":  35,
+        "name":  "Africa Trade \u0026 Export Champion",
+        "people_choice":  false,
+        "slug":  "africa-trade-export-champion"
+    },
+    {
+        "cluster":  "Business \u0026 Entrepreneurship",
+        "number":  36,
+        "name":  "Social Enterprise of the Year",
+        "people_choice":  false,
+        "slug":  "social-enterprise-of-the-year"
+    },
+    {
+        "cluster":  "Business \u0026 Entrepreneurship",
+        "number":  37,
+        "name":  "Brand of the Year",
+        "people_choice":  true,
+        "slug":  "brand-of-the-year"
+    },
+    {
+        "cluster":  "Business \u0026 Entrepreneurship",
+        "number":  38,
+        "name":  "Real Estate \u0026 Construction Excellence Award",
+        "people_choice":  false,
+        "slug":  "real-estate-construction-excellence-award"
+    },
+    {
+        "cluster":  "Business \u0026 Entrepreneurship",
+        "number":  39,
+        "name":  "Logistics \u0026 Transport Excellence Award",
+        "people_choice":  false,
+        "slug":  "logistics-transport-excellence-award"
+    },
+    {
+        "cluster":  "Business \u0026 Entrepreneurship",
+        "number":  40,
+        "name":  "Informal Sector Hero Award",
+        "people_choice":  false,
+        "slug":  "informal-sector-hero-award"
+    },
+    {
+        "cluster":  "Banking, Finance \u0026 Investment",
+        "number":  41,
+        "name":  "Bank of the Year",
+        "people_choice":  false,
+        "slug":  "bank-of-the-year"
+    },
+    {
+        "cluster":  "Banking, Finance \u0026 Investment",
+        "number":  42,
+        "name":  "Financial Inclusion Champion",
+        "people_choice":  false,
+        "slug":  "financial-inclusion-champion"
+    },
+    {
+        "cluster":  "Banking, Finance \u0026 Investment",
+        "number":  43,
+        "name":  "Microfinance Institution of the Year",
+        "people_choice":  false,
+        "slug":  "microfinance-institution-of-the-year"
+    },
+    {
+        "cluster":  "Banking, Finance \u0026 Investment",
+        "number":  44,
+        "name":  "Insurance Company of the Year",
+        "people_choice":  false,
+        "slug":  "insurance-company-of-the-year"
+    },
+    {
+        "cluster":  "Banking, Finance \u0026 Investment",
+        "number":  45,
+        "name":  "Impact Investor of the Year",
+        "people_choice":  false,
+        "slug":  "impact-investor-of-the-year"
+    },
+    {
+        "cluster":  "Banking, Finance \u0026 Investment",
+        "number":  46,
+        "name":  "Mobile Money \u0026 Digital Payments Award",
+        "people_choice":  false,
+        "slug":  "mobile-money-digital-payments-award"
+    },
+    {
+        "cluster":  "Banking, Finance \u0026 Investment",
+        "number":  47,
+        "name":  "SACCO \u0026 Cooperative Excellence Award",
+        "people_choice":  false,
+        "slug":  "sacco-cooperative-excellence-award"
+    },
+    {
+        "cluster":  "Banking, Finance \u0026 Investment",
+        "number":  48,
+        "name":  "Islamic Finance Excellence Award",
+        "people_choice":  false,
+        "slug":  "islamic-finance-excellence-award"
+    },
+    {
+        "cluster":  "Banking, Finance \u0026 Investment",
+        "number":  49,
+        "name":  "Financial Literacy Champion",
+        "people_choice":  false,
+        "slug":  "financial-literacy-champion"
+    },
+    {
+        "cluster":  "Banking, Finance \u0026 Investment",
+        "number":  50,
+        "name":  "Capital Markets Excellence Award",
+        "people_choice":  false,
+        "slug":  "capital-markets-excellence-award"
+    },
+    {
+        "cluster":  "Innovation, Technology \u0026 Digital Transformation",
+        "number":  51,
+        "name":  "Innovation \u0026 Technology Award",
+        "people_choice":  false,
+        "slug":  "innovation-technology-award"
+    },
+    {
+        "cluster":  "Innovation, Technology \u0026 Digital Transformation",
+        "number":  52,
+        "name":  "Tech Innovator of the Year",
+        "people_choice":  false,
+        "slug":  "tech-innovator-of-the-year"
+    },
+    {
+        "cluster":  "Innovation, Technology \u0026 Digital Transformation",
+        "number":  53,
+        "name":  "Fintech Innovation of the Year",
+        "people_choice":  false,
+        "slug":  "fintech-innovation-of-the-year"
+    },
+    {
+        "cluster":  "Innovation, Technology \u0026 Digital Transformation",
+        "number":  54,
+        "name":  "Artificial Intelligence for Good Award",
+        "people_choice":  false,
+        "slug":  "artificial-intelligence-for-good-award"
+    },
+    {
+        "cluster":  "Innovation, Technology \u0026 Digital Transformation",
+        "number":  55,
+        "name":  "Telecommunications Company of the Year",
+        "people_choice":  false,
+        "slug":  "telecommunications-company-of-the-year"
+    },
+    {
+        "cluster":  "Innovation, Technology \u0026 Digital Transformation",
+        "number":  56,
+        "name":  "Digital Transformation Leader",
+        "people_choice":  false,
+        "slug":  "digital-transformation-leader"
+    },
+    {
+        "cluster":  "Innovation, Technology \u0026 Digital Transformation",
+        "number":  57,
+        "name":  "Women in Tech Award",
+        "people_choice":  false,
+        "slug":  "women-in-tech-award"
+    },
+    {
+        "cluster":  "Innovation, Technology \u0026 Digital Transformation",
+        "number":  58,
+        "name":  "Cybersecurity Excellence Award",
+        "people_choice":  false,
+        "slug":  "cybersecurity-excellence-award"
+    },
+    {
+        "cluster":  "Innovation, Technology \u0026 Digital Transformation",
+        "number":  59,
+        "name":  "Mobile App of the Year",
+        "people_choice":  true,
+        "slug":  "mobile-app-of-the-year"
+    },
+    {
+        "cluster":  "Innovation, Technology \u0026 Digital Transformation",
+        "number":  60,
+        "name":  "Tech Hub \u0026 Incubator of the Year",
+        "people_choice":  false,
+        "slug":  "tech-hub-incubator-of-the-year"
+    },
+    {
+        "cluster":  "Innovation, Technology \u0026 Digital Transformation",
+        "number":  61,
+        "name":  "E-Commerce Platform of the Year",
+        "people_choice":  true,
+        "slug":  "e-commerce-platform-of-the-year"
+    },
+    {
+        "cluster":  "Innovation, Technology \u0026 Digital Transformation",
+        "number":  62,
+        "name":  "HealthTech Innovation Award",
+        "people_choice":  false,
+        "slug":  "healthtech-innovation-award"
+    },
+    {
+        "cluster":  "Innovation, Technology \u0026 Digital Transformation",
+        "number":  63,
+        "name":  "EdTech Innovation Award",
+        "people_choice":  false,
+        "slug":  "edtech-innovation-award"
+    },
+    {
+        "cluster":  "Innovation, Technology \u0026 Digital Transformation",
+        "number":  64,
+        "name":  "AgriTech Innovation Award",
+        "people_choice":  false,
+        "slug":  "agritech-innovation-award"
+    },
+    {
+        "cluster":  "Innovation, Technology \u0026 Digital Transformation",
+        "number":  65,
+        "name":  "Grassroots Innovator Award",
+        "people_choice":  false,
+        "slug":  "grassroots-innovator-award"
+    },
+    {
+        "cluster":  "Innovation, Technology \u0026 Digital Transformation",
+        "number":  66,
+        "name":  "Digital Inclusion Award",
+        "people_choice":  false,
+        "slug":  "digital-inclusion-award"
+    },
+    {
+        "cluster":  "Education, Research \u0026 Skills",
+        "number":  67,
+        "name":  "Exceptional Educator Award",
+        "people_choice":  false,
+        "slug":  "exceptional-educator-award"
+    },
+    {
+        "cluster":  "Education, Research \u0026 Skills",
+        "number":  68,
+        "name":  "Teacher of the Year",
+        "people_choice":  true,
+        "slug":  "teacher-of-the-year"
+    },
+    {
+        "cluster":  "Education, Research \u0026 Skills",
+        "number":  69,
+        "name":  "Rural Teacher Hero Award",
+        "people_choice":  false,
+        "slug":  "rural-teacher-hero-award"
+    },
+    {
+        "cluster":  "Education, Research \u0026 Skills",
+        "number":  70,
+        "name":  "School of the Year",
+        "people_choice":  false,
+        "slug":  "school-of-the-year"
+    },
+    {
+        "cluster":  "Education, Research \u0026 Skills",
+        "number":  71,
+        "name":  "Higher Learning Institution of the Year",
+        "people_choice":  false,
+        "slug":  "higher-learning-institution-of-the-year"
+    },
+    {
+        "cluster":  "Education, Research \u0026 Skills",
+        "number":  72,
+        "name":  "Researcher of the Year",
+        "people_choice":  false,
+        "slug":  "researcher-of-the-year"
+    },
+    {
+        "cluster":  "Education, Research \u0026 Skills",
+        "number":  73,
+        "name":  "Vocational \u0026 Technical Training (TVET) Excellence Award",
+        "people_choice":  false,
+        "slug":  "vocational-technical-training-tvet-excellence-award"
+    },
+    {
+        "cluster":  "Education, Research \u0026 Skills",
+        "number":  74,
+        "name":  "Early Childhood Education Champion",
+        "people_choice":  false,
+        "slug":  "early-childhood-education-champion"
+    },
+    {
+        "cluster":  "Education, Research \u0026 Skills",
+        "number":  75,
+        "name":  "Inclusive \u0026 Special Needs Education Award",
+        "people_choice":  false,
+        "slug":  "inclusive-special-needs-education-award"
+    },
+    {
+        "cluster":  "Education, Research \u0026 Skills",
+        "number":  76,
+        "name":  "STEM Education Champion",
+        "people_choice":  false,
+        "slug":  "stem-education-champion"
+    },
+    {
+        "cluster":  "Education, Research \u0026 Skills",
+        "number":  77,
+        "name":  "Adult \u0026 Lifelong Learning Award",
+        "people_choice":  false,
+        "slug":  "adult-lifelong-learning-award"
+    },
+    {
+        "cluster":  "Education, Research \u0026 Skills",
+        "number":  78,
+        "name":  "Education Philanthropy \u0026 Scholarship Award",
+        "people_choice":  false,
+        "slug":  "education-philanthropy-scholarship-award"
+    },
+    {
+        "cluster":  "Health \u0026 Wellbeing",
+        "number":  79,
+        "name":  "Healthcare Advancement Award",
+        "people_choice":  false,
+        "slug":  "healthcare-advancement-award"
+    },
+    {
+        "cluster":  "Health \u0026 Wellbeing",
+        "number":  80,
+        "name":  "Doctor of the Year",
+        "people_choice":  false,
+        "slug":  "doctor-of-the-year"
+    },
+    {
+        "cluster":  "Health \u0026 Wellbeing",
+        "number":  81,
+        "name":  "Nurse \u0026 Midwife of the Year",
+        "people_choice":  true,
+        "slug":  "nurse-midwife-of-the-year"
+    },
+    {
+        "cluster":  "Health \u0026 Wellbeing",
+        "number":  82,
+        "name":  "Community Health Worker Hero",
+        "people_choice":  false,
+        "slug":  "community-health-worker-hero"
+    },
+    {
+        "cluster":  "Health \u0026 Wellbeing",
+        "number":  83,
+        "name":  "Hospital of the Year",
+        "people_choice":  false,
+        "slug":  "hospital-of-the-year"
+    },
+    {
+        "cluster":  "Health \u0026 Wellbeing",
+        "number":  84,
+        "name":  "Mental Health Advocacy Award",
+        "people_choice":  false,
+        "slug":  "mental-health-advocacy-award"
+    },
+    {
+        "cluster":  "Health \u0026 Wellbeing",
+        "number":  85,
+        "name":  "Maternal \u0026 Child Health Champion",
+        "people_choice":  false,
+        "slug":  "maternal-child-health-champion"
+    },
+    {
+        "cluster":  "Health \u0026 Wellbeing",
+        "number":  86,
+        "name":  "Public Health Impact Award",
+        "people_choice":  false,
+        "slug":  "public-health-impact-award"
+    },
+    {
+        "cluster":  "Health \u0026 Wellbeing",
+        "number":  87,
+        "name":  "Pharmaceutical Excellence Award",
+        "people_choice":  false,
+        "slug":  "pharmaceutical-excellence-award"
+    },
+    {
+        "cluster":  "Health \u0026 Wellbeing",
+        "number":  88,
+        "name":  "Health Researcher of the Year",
+        "people_choice":  false,
+        "slug":  "health-researcher-of-the-year"
+    },
+    {
+        "cluster":  "Health \u0026 Wellbeing",
+        "number":  89,
+        "name":  "Medical Outreach Award",
+        "people_choice":  false,
+        "slug":  "medical-outreach-award"
+    },
+    {
+        "cluster":  "Health \u0026 Wellbeing",
+        "number":  90,
+        "name":  "Nutrition \u0026 Wellness Champion",
+        "people_choice":  false,
+        "slug":  "nutrition-wellness-champion"
+    },
+    {
+        "cluster":  "Agriculture, Food Security \u0026 Agribusiness",
+        "number":  91,
+        "name":  "Agricultural Excellence Award",
+        "people_choice":  false,
+        "slug":  "agricultural-excellence-award"
+    },
+    {
+        "cluster":  "Agriculture, Food Security \u0026 Agribusiness",
+        "number":  92,
+        "name":  "Farmer of the Year",
+        "people_choice":  true,
+        "slug":  "farmer-of-the-year"
+    },
+    {
+        "cluster":  "Agriculture, Food Security \u0026 Agribusiness",
+        "number":  93,
+        "name":  "Young Farmer of the Year",
+        "people_choice":  false,
+        "slug":  "young-farmer-of-the-year"
+    },
+    {
+        "cluster":  "Agriculture, Food Security \u0026 Agribusiness",
+        "number":  94,
+        "name":  "Woman Farmer of the Year",
+        "people_choice":  false,
+        "slug":  "woman-farmer-of-the-year"
+    },
+    {
+        "cluster":  "Agriculture, Food Security \u0026 Agribusiness",
+        "number":  95,
+        "name":  "Agribusiness of the Year",
+        "people_choice":  false,
+        "slug":  "agribusiness-of-the-year"
+    },
+    {
+        "cluster":  "Agriculture, Food Security \u0026 Agribusiness",
+        "number":  96,
+        "name":  "Agro-Processing Excellence Award",
+        "people_choice":  false,
+        "slug":  "agro-processing-excellence-award"
+    },
+    {
+        "cluster":  "Agriculture, Food Security \u0026 Agribusiness",
+        "number":  97,
+        "name":  "Livestock \u0026 Dairy Excellence Award",
+        "people_choice":  false,
+        "slug":  "livestock-dairy-excellence-award"
+    },
+    {
+        "cluster":  "Agriculture, Food Security \u0026 Agribusiness",
+        "number":  98,
+        "name":  "Fisheries \u0026 Blue Economy Award",
+        "people_choice":  false,
+        "slug":  "fisheries-blue-economy-award"
+    },
+    {
+        "cluster":  "Agriculture, Food Security \u0026 Agribusiness",
+        "number":  99,
+        "name":  "Food Security Champion",
+        "people_choice":  false,
+        "slug":  "food-security-champion"
+    },
+    {
+        "cluster":  "Agriculture, Food Security \u0026 Agribusiness",
+        "number":  100,
+        "name":  "Agricultural Cooperative of the Year",
+        "people_choice":  false,
+        "slug":  "agricultural-cooperative-of-the-year"
+    },
+    {
+        "cluster":  "Agriculture, Food Security \u0026 Agribusiness",
+        "number":  101,
+        "name":  "Horticulture \u0026 Export Crops Award",
+        "people_choice":  false,
+        "slug":  "horticulture-export-crops-award"
+    },
+    {
+        "cluster":  "Agriculture, Food Security \u0026 Agribusiness",
+        "number":  102,
+        "name":  "Agricultural Extension Officer of the Year",
+        "people_choice":  false,
+        "slug":  "agricultural-extension-officer-of-the-year"
+    },
+    {
+        "cluster":  "Environment, Climate \u0026 Energy",
+        "number":  103,
+        "name":  "Climate Action Champion",
+        "people_choice":  false,
+        "slug":  "climate-action-champion"
+    },
+    {
+        "cluster":  "Environment, Climate \u0026 Energy",
+        "number":  104,
+        "name":  "Environmental Conservation Award",
+        "people_choice":  false,
+        "slug":  "environmental-conservation-award"
+    },
+    {
+        "cluster":  "Environment, Climate \u0026 Energy",
+        "number":  105,
+        "name":  "Renewable Energy Excellence Award",
+        "people_choice":  false,
+        "slug":  "renewable-energy-excellence-award"
+    },
+    {
+        "cluster":  "Environment, Climate \u0026 Energy",
+        "number":  106,
+        "name":  "Green Business of the Year",
+        "people_choice":  false,
+        "slug":  "green-business-of-the-year"
+    },
+    {
+        "cluster":  "Environment, Climate \u0026 Energy",
+        "number":  107,
+        "name":  "Clean Cooking Champion",
+        "people_choice":  false,
+        "slug":  "clean-cooking-champion"
+    },
+    {
+        "cluster":  "Environment, Climate \u0026 Energy",
+        "number":  108,
+        "name":  "Water \u0026 Sanitation Excellence Award",
+        "people_choice":  false,
+        "slug":  "water-sanitation-excellence-award"
+    },
+    {
+        "cluster":  "Environment, Climate \u0026 Energy",
+        "number":  109,
+        "name":  "Waste Management \u0026 Recycling Award",
+        "people_choice":  false,
+        "slug":  "waste-management-recycling-award"
+    },
+    {
+        "cluster":  "Environment, Climate \u0026 Energy",
+        "number":  110,
+        "name":  "Wildlife Conservation Award",
+        "people_choice":  false,
+        "slug":  "wildlife-conservation-award"
+    },
+    {
+        "cluster":  "Environment, Climate \u0026 Energy",
+        "number":  111,
+        "name":  "Reforestation \u0026 Tree Planting Champion",
+        "people_choice":  false,
+        "slug":  "reforestation-tree-planting-champion"
+    },
+    {
+        "cluster":  "Environment, Climate \u0026 Energy",
+        "number":  112,
+        "name":  "Young Environmental Activist Award",
+        "people_choice":  false,
+        "slug":  "young-environmental-activist-award"
+    },
+    {
+        "cluster":  "Environment, Climate \u0026 Energy",
+        "number":  113,
+        "name":  "Responsible Mining \u0026 Extractives Award",
+        "people_choice":  false,
+        "slug":  "responsible-mining-extractives-award"
+    },
+    {
+        "cluster":  "Environment, Climate \u0026 Energy",
+        "number":  114,
+        "name":  "Sustainable Cities \u0026 Green Building Award",
+        "people_choice":  false,
+        "slug":  "sustainable-cities-green-building-award"
+    },
+    {
+        "cluster":  "Women Empowerment \u0026 Gender Equality",
+        "number":  115,
+        "name":  "Woman of Excellence of the Year",
+        "people_choice":  false,
+        "slug":  "woman-of-excellence-of-the-year"
+    },
+    {
+        "cluster":  "Women Empowerment \u0026 Gender Equality",
+        "number":  116,
+        "name":  "Woman Entrepreneur of the Year",
+        "people_choice":  false,
+        "slug":  "woman-entrepreneur-of-the-year"
+    },
+    {
+        "cluster":  "Women Empowerment \u0026 Gender Equality",
+        "number":  117,
+        "name":  "Women in Leadership Award",
+        "people_choice":  false,
+        "slug":  "women-in-leadership-award"
+    },
+    {
+        "cluster":  "Women Empowerment \u0026 Gender Equality",
+        "number":  118,
+        "name":  "Women in STEM Award",
+        "people_choice":  false,
+        "slug":  "women-in-stem-award"
+    },
+    {
+        "cluster":  "Women Empowerment \u0026 Gender Equality",
+        "number":  119,
+        "name":  "Women Empowerment Organisation of the Year",
+        "people_choice":  false,
+        "slug":  "women-empowerment-organisation-of-the-year"
+    },
+    {
+        "cluster":  "Women Empowerment \u0026 Gender Equality",
+        "number":  120,
+        "name":  "Male Champion for Gender Equality",
+        "people_choice":  false,
+        "slug":  "male-champion-for-gender-equality"
+    },
+    {
+        "cluster":  "Women Empowerment \u0026 Gender Equality",
+        "number":  121,
+        "name":  "Girl Child Education Champion",
+        "people_choice":  false,
+        "slug":  "girl-child-education-champion"
+    },
+    {
+        "cluster":  "Women Empowerment \u0026 Gender Equality",
+        "number":  122,
+        "name":  "Ending Gender-Based Violence Award",
+        "people_choice":  false,
+        "slug":  "ending-gender-based-violence-award"
+    },
+    {
+        "cluster":  "Women Empowerment \u0026 Gender Equality",
+        "number":  123,
+        "name":  "Inspirational Mother of the Year",
+        "people_choice":  true,
+        "slug":  "inspirational-mother-of-the-year"
+    },
+    {
+        "cluster":  "Women Empowerment \u0026 Gender Equality",
+        "number":  124,
+        "name":  "Women in Media Award",
+        "people_choice":  false,
+        "slug":  "women-in-media-award"
+    },
+    {
+        "cluster":  "Women Empowerment \u0026 Gender Equality",
+        "number":  125,
+        "name":  "Women in Finance Award",
+        "people_choice":  false,
+        "slug":  "women-in-finance-award"
+    },
+    {
+        "cluster":  "Women Empowerment \u0026 Gender Equality",
+        "number":  126,
+        "name":  "Rising Woman Professional Award",
+        "people_choice":  false,
+        "slug":  "rising-woman-professional-award"
+    },
+    {
+        "cluster":  "Youth \u0026 Next Generation",
+        "number":  127,
+        "name":  "Youth Leadership Award",
+        "people_choice":  false,
+        "slug":  "youth-leadership-award"
+    },
+    {
+        "cluster":  "Youth \u0026 Next Generation",
+        "number":  128,
+        "name":  "Young Achiever of the Year",
+        "people_choice":  true,
+        "slug":  "young-achiever-of-the-year"
+    },
+    {
+        "cluster":  "Youth \u0026 Next Generation",
+        "number":  129,
+        "name":  "Student Leader of the Year",
+        "people_choice":  false,
+        "slug":  "student-leader-of-the-year"
+    },
+    {
+        "cluster":  "Youth \u0026 Next Generation",
+        "number":  130,
+        "name":  "Young Innovator Award",
+        "people_choice":  false,
+        "slug":  "young-innovator-award"
+    },
+    {
+        "cluster":  "Youth \u0026 Next Generation",
+        "number":  131,
+        "name":  "Youth Changemaker Award",
+        "people_choice":  false,
+        "slug":  "youth-changemaker-award"
+    },
+    {
+        "cluster":  "Youth \u0026 Next Generation",
+        "number":  132,
+        "name":  "Young Professional of the Year",
+        "people_choice":  false,
+        "slug":  "young-professional-of-the-year"
+    },
+    {
+        "cluster":  "Youth \u0026 Next Generation",
+        "number":  133,
+        "name":  "Youth-Led Organisation of the Year",
+        "people_choice":  false,
+        "slug":  "youth-led-organisation-of-the-year"
+    },
+    {
+        "cluster":  "Youth \u0026 Next Generation",
+        "number":  134,
+        "name":  "Young Creative of the Year",
+        "people_choice":  false,
+        "slug":  "young-creative-of-the-year"
+    },
+    {
+        "cluster":  "Youth \u0026 Next Generation",
+        "number":  135,
+        "name":  "Exceptional Young Talent Award",
+        "people_choice":  false,
+        "slug":  "exceptional-young-talent-award"
+    },
+    {
+        "cluster":  "Youth \u0026 Next Generation",
+        "number":  136,
+        "name":  "Youth Employment Champion",
+        "people_choice":  false,
+        "slug":  "youth-employment-champion"
+    },
+    {
+        "cluster":  "Youth \u0026 Next Generation",
+        "number":  137,
+        "name":  "Mentorship Excellence Award",
+        "people_choice":  false,
+        "slug":  "mentorship-excellence-award"
+    },
+    {
+        "cluster":  "Youth \u0026 Next Generation",
+        "number":  138,
+        "name":  "Youth Volunteer of the Year",
+        "people_choice":  false,
+        "slug":  "youth-volunteer-of-the-year"
+    },
+    {
+        "cluster":  "Creative Arts, Culture \u0026 Entertainment",
+        "number":  139,
+        "name":  "Creative Arts Award",
+        "people_choice":  false,
+        "slug":  "creative-arts-award"
+    },
+    {
+        "cluster":  "Creative Arts, Culture \u0026 Entertainment",
+        "number":  140,
+        "name":  "Literary Excellence Award",
+        "people_choice":  false,
+        "slug":  "literary-excellence-award"
+    },
+    {
+        "cluster":  "Creative Arts, Culture \u0026 Entertainment",
+        "number":  141,
+        "name":  "Music and Performance Award",
+        "people_choice":  false,
+        "slug":  "music-and-performance-award"
+    },
+    {
+        "cluster":  "Creative Arts, Culture \u0026 Entertainment",
+        "number":  142,
+        "name":  "Music Artist of the Year",
+        "people_choice":  true,
+        "slug":  "music-artist-of-the-year"
+    },
+    {
+        "cluster":  "Creative Arts, Culture \u0026 Entertainment",
+        "number":  143,
+        "name":  "Song of the Year",
+        "people_choice":  true,
+        "slug":  "song-of-the-year"
+    },
+    {
+        "cluster":  "Creative Arts, Culture \u0026 Entertainment",
+        "number":  144,
+        "name":  "Gospel Artist of the Year",
+        "people_choice":  true,
+        "slug":  "gospel-artist-of-the-year"
+    },
+    {
+        "cluster":  "Creative Arts, Culture \u0026 Entertainment",
+        "number":  145,
+        "name":  "Film of the Year",
+        "people_choice":  false,
+        "slug":  "film-of-the-year"
+    },
+    {
+        "cluster":  "Creative Arts, Culture \u0026 Entertainment",
+        "number":  146,
+        "name":  "Actor \u0026 Actress of the Year",
+        "people_choice":  true,
+        "slug":  "actor-actress-of-the-year"
+    },
+    {
+        "cluster":  "Creative Arts, Culture \u0026 Entertainment",
+        "number":  147,
+        "name":  "Comedian of the Year",
+        "people_choice":  true,
+        "slug":  "comedian-of-the-year"
+    },
+    {
+        "cluster":  "Creative Arts, Culture \u0026 Entertainment",
+        "number":  148,
+        "name":  "Fashion Designer of the Year",
+        "people_choice":  false,
+        "slug":  "fashion-designer-of-the-year"
+    },
+    {
+        "cluster":  "Creative Arts, Culture \u0026 Entertainment",
+        "number":  149,
+        "name":  "Visual Artist of the Year",
+        "people_choice":  false,
+        "slug":  "visual-artist-of-the-year"
+    },
+    {
+        "cluster":  "Creative Arts, Culture \u0026 Entertainment",
+        "number":  150,
+        "name":  "Cultural Heritage Preservation Award",
+        "people_choice":  false,
+        "slug":  "cultural-heritage-preservation-award"
+    },
+    {
+        "cluster":  "Creative Arts, Culture \u0026 Entertainment",
+        "number":  151,
+        "name":  "Traditional Music \u0026 Dance Group of the Year",
+        "people_choice":  false,
+        "slug":  "traditional-music-dance-group-of-the-year"
+    },
+    {
+        "cluster":  "Creative Arts, Culture \u0026 Entertainment",
+        "number":  152,
+        "name":  "Poet \u0026 Spoken Word Artist of the Year",
+        "people_choice":  false,
+        "slug":  "poet-spoken-word-artist-of-the-year"
+    },
+    {
+        "cluster":  "Creative Arts, Culture \u0026 Entertainment",
+        "number":  153,
+        "name":  "Events \u0026 Entertainment Company of the Year",
+        "people_choice":  false,
+        "slug":  "events-entertainment-company-of-the-year"
+    },
+    {
+        "cluster":  "Creative Arts, Culture \u0026 Entertainment",
+        "number":  154,
+        "name":  "Music Producer of the Year",
+        "people_choice":  false,
+        "slug":  "music-producer-of-the-year"
+    },
+    {
+        "cluster":  "Media, Communication \u0026 Digital Influence",
+        "number":  155,
+        "name":  "Media for Change Award",
+        "people_choice":  false,
+        "slug":  "media-for-change-award"
+    },
+    {
+        "cluster":  "Media, Communication \u0026 Digital Influence",
+        "number":  156,
+        "name":  "Journalist of the Year",
+        "people_choice":  false,
+        "slug":  "journalist-of-the-year"
+    },
+    {
+        "cluster":  "Media, Communication \u0026 Digital Influence",
+        "number":  157,
+        "name":  "Investigative Journalism Award",
+        "people_choice":  false,
+        "slug":  "investigative-journalism-award"
+    },
+    {
+        "cluster":  "Media, Communication \u0026 Digital Influence",
+        "number":  158,
+        "name":  "TV Station of the Year",
+        "people_choice":  true,
+        "slug":  "tv-station-of-the-year"
+    },
+    {
+        "cluster":  "Media, Communication \u0026 Digital Influence",
+        "number":  159,
+        "name":  "Radio Station of the Year",
+        "people_choice":  true,
+        "slug":  "radio-station-of-the-year"
+    },
+    {
+        "cluster":  "Media, Communication \u0026 Digital Influence",
+        "number":  160,
+        "name":  "Broadcast Presenter of the Year",
+        "people_choice":  true,
+        "slug":  "broadcast-presenter-of-the-year"
+    },
+    {
+        "cluster":  "Media, Communication \u0026 Digital Influence",
+        "number":  161,
+        "name":  "Digital Influencer of the Year",
+        "people_choice":  true,
+        "slug":  "digital-influencer-of-the-year"
+    },
+    {
+        "cluster":  "Media, Communication \u0026 Digital Influence",
+        "number":  162,
+        "name":  "Content Creator of the Year",
+        "people_choice":  true,
+        "slug":  "content-creator-of-the-year"
+    },
+    {
+        "cluster":  "Media, Communication \u0026 Digital Influence",
+        "number":  163,
+        "name":  "Podcast of the Year",
+        "people_choice":  false,
+        "slug":  "podcast-of-the-year"
+    },
+    {
+        "cluster":  "Media, Communication \u0026 Digital Influence",
+        "number":  164,
+        "name":  "PR \u0026 Communications Excellence Award",
+        "people_choice":  false,
+        "slug":  "pr-communications-excellence-award"
+    },
+    {
+        "cluster":  "Media, Communication \u0026 Digital Influence",
+        "number":  165,
+        "name":  "Advertising Campaign of the Year",
+        "people_choice":  false,
+        "slug":  "advertising-campaign-of-the-year"
+    },
+    {
+        "cluster":  "Media, Communication \u0026 Digital Influence",
+        "number":  166,
+        "name":  "Photographer of the Year",
+        "people_choice":  false,
+        "slug":  "photographer-of-the-year"
+    },
+    {
+        "cluster":  "Sports \u0026 Fitness",
+        "number":  167,
+        "name":  "Sports Achievement Award",
+        "people_choice":  false,
+        "slug":  "sports-achievement-award"
+    },
+    {
+        "cluster":  "Sports \u0026 Fitness",
+        "number":  168,
+        "name":  "Sportsman of the Year",
+        "people_choice":  true,
+        "slug":  "sportsman-of-the-year"
+    },
+    {
+        "cluster":  "Sports \u0026 Fitness",
+        "number":  169,
+        "name":  "Sportswoman of the Year",
+        "people_choice":  true,
+        "slug":  "sportswoman-of-the-year"
+    },
+    {
+        "cluster":  "Sports \u0026 Fitness",
+        "number":  170,
+        "name":  "Coach of the Year",
+        "people_choice":  false,
+        "slug":  "coach-of-the-year"
+    },
+    {
+        "cluster":  "Sports \u0026 Fitness",
+        "number":  171,
+        "name":  "Team of the Year",
+        "people_choice":  true,
+        "slug":  "team-of-the-year"
+    },
+    {
+        "cluster":  "Sports \u0026 Fitness",
+        "number":  172,
+        "name":  "Para-Athlete of the Year",
+        "people_choice":  false,
+        "slug":  "para-athlete-of-the-year"
+    },
+    {
+        "cluster":  "Sports \u0026 Fitness",
+        "number":  173,
+        "name":  "Grassroots Sports Development Champion",
+        "people_choice":  false,
+        "slug":  "grassroots-sports-development-champion"
+    },
+    {
+        "cluster":  "Sports \u0026 Fitness",
+        "number":  174,
+        "name":  "Emerging Sports Talent Award",
+        "people_choice":  false,
+        "slug":  "emerging-sports-talent-award"
+    },
+    {
+        "cluster":  "Sports \u0026 Fitness",
+        "number":  175,
+        "name":  "Sports Administrator of the Year",
+        "people_choice":  false,
+        "slug":  "sports-administrator-of-the-year"
+    },
+    {
+        "cluster":  "Sports \u0026 Fitness",
+        "number":  176,
+        "name":  "Fitness \u0026 Wellness Champion",
+        "people_choice":  false,
+        "slug":  "fitness-wellness-champion"
+    },
+    {
+        "cluster":  "Humanitarian, Faith \u0026 Community Impact",
+        "number":  177,
+        "name":  "Humanitarian Impact Award",
+        "people_choice":  false,
+        "slug":  "humanitarian-impact-award"
+    },
+    {
+        "cluster":  "Humanitarian, Faith \u0026 Community Impact",
+        "number":  178,
+        "name":  "Spiritual Leadership Award",
+        "people_choice":  false,
+        "slug":  "spiritual-leadership-award"
+    },
+    {
+        "cluster":  "Humanitarian, Faith \u0026 Community Impact",
+        "number":  179,
+        "name":  "Community Volunteer Award",
+        "people_choice":  false,
+        "slug":  "community-volunteer-award"
+    },
+    {
+        "cluster":  "Humanitarian, Faith \u0026 Community Impact",
+        "number":  180,
+        "name":  "Philanthropist of the Year",
+        "people_choice":  false,
+        "slug":  "philanthropist-of-the-year"
+    },
+    {
+        "cluster":  "Humanitarian, Faith \u0026 Community Impact",
+        "number":  181,
+        "name":  "NGO of the Year",
+        "people_choice":  false,
+        "slug":  "ngo-of-the-year"
+    },
+    {
+        "cluster":  "Humanitarian, Faith \u0026 Community Impact",
+        "number":  182,
+        "name":  "Community-Based Organisation of the Year",
+        "people_choice":  false,
+        "slug":  "community-based-organisation-of-the-year"
+    },
+    {
+        "cluster":  "Humanitarian, Faith \u0026 Community Impact",
+        "number":  183,
+        "name":  "Disability Inclusion Champion",
+        "people_choice":  false,
+        "slug":  "disability-inclusion-champion"
+    },
+    {
+        "cluster":  "Humanitarian, Faith \u0026 Community Impact",
+        "number":  184,
+        "name":  "Faith-Based Organisation of Impact",
+        "people_choice":  false,
+        "slug":  "faith-based-organisation-of-impact"
+    },
+    {
+        "cluster":  "Humanitarian, Faith \u0026 Community Impact",
+        "number":  185,
+        "name":  "Interfaith Harmony Award",
+        "people_choice":  false,
+        "slug":  "interfaith-harmony-award"
+    },
+    {
+        "cluster":  "Humanitarian, Faith \u0026 Community Impact",
+        "number":  186,
+        "name":  "Child Welfare Champion",
+        "people_choice":  false,
+        "slug":  "child-welfare-champion"
+    },
+    {
+        "cluster":  "Humanitarian, Faith \u0026 Community Impact",
+        "number":  187,
+        "name":  "Elderly Care Champion",
+        "people_choice":  false,
+        "slug":  "elderly-care-champion"
+    },
+    {
+        "cluster":  "Humanitarian, Faith \u0026 Community Impact",
+        "number":  188,
+        "name":  "Refugee \u0026 Displaced Persons Support Award",
+        "people_choice":  false,
+        "slug":  "refugee-displaced-persons-support-award"
+    },
+    {
+        "cluster":  "Humanitarian, Faith \u0026 Community Impact",
+        "number":  189,
+        "name":  "Disaster Response \u0026 Relief Award",
+        "people_choice":  false,
+        "slug":  "disaster-response-relief-award"
+    },
+    {
+        "cluster":  "Humanitarian, Faith \u0026 Community Impact",
+        "number":  190,
+        "name":  "Unsung Hero Award",
+        "people_choice":  true,
+        "slug":  "unsung-hero-award"
+    },
+    {
+        "cluster":  "Tourism, Hospitality \u0026 Lifestyle",
+        "number":  191,
+        "name":  "Tourism Destination of the Year",
+        "people_choice":  true,
+        "slug":  "tourism-destination-of-the-year"
+    },
+    {
+        "cluster":  "Tourism, Hospitality \u0026 Lifestyle",
+        "number":  192,
+        "name":  "Hotel of the Year",
+        "people_choice":  true,
+        "slug":  "hotel-of-the-year"
+    },
+    {
+        "cluster":  "Tourism, Hospitality \u0026 Lifestyle",
+        "number":  193,
+        "name":  "Tour Operator of the Year",
+        "people_choice":  false,
+        "slug":  "tour-operator-of-the-year"
+    },
+    {
+        "cluster":  "Tourism, Hospitality \u0026 Lifestyle",
+        "number":  194,
+        "name":  "Restaurant of the Year",
+        "people_choice":  true,
+        "slug":  "restaurant-of-the-year"
+    },
+    {
+        "cluster":  "Tourism, Hospitality \u0026 Lifestyle",
+        "number":  195,
+        "name":  "Chef of the Year",
+        "people_choice":  false,
+        "slug":  "chef-of-the-year"
+    },
+    {
+        "cluster":  "Tourism, Hospitality \u0026 Lifestyle",
+        "number":  196,
+        "name":  "Eco-Tourism Excellence Award",
+        "people_choice":  false,
+        "slug":  "eco-tourism-excellence-award"
+    },
+    {
+        "cluster":  "Tourism, Hospitality \u0026 Lifestyle",
+        "number":  197,
+        "name":  "Event Venue of the Year",
+        "people_choice":  false,
+        "slug":  "event-venue-of-the-year"
+    },
+    {
+        "cluster":  "Tourism, Hospitality \u0026 Lifestyle",
+        "number":  198,
+        "name":  "Beauty \u0026 Wellness Brand of the Year",
+        "people_choice":  true,
+        "slug":  "beauty-wellness-brand-of-the-year"
+    },
+    {
+        "cluster":  "Tourism, Hospitality \u0026 Lifestyle",
+        "number":  199,
+        "name":  "Travel \u0026 Aviation Excellence Award",
+        "people_choice":  false,
+        "slug":  "travel-aviation-excellence-award"
+    },
+    {
+        "cluster":  "Tourism, Hospitality \u0026 Lifestyle",
+        "number":  200,
+        "name":  "Cultural Tourism Champion",
+        "people_choice":  false,
+        "slug":  "cultural-tourism-champion"
+    }
+]
