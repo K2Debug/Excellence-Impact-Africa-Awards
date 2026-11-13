@@ -34,6 +34,18 @@ class PageController extends Controller
             ->with('awards', $cluster);
     }
 
+    public function award(string $clusterSlug, string $awardSlug): View
+    {
+        $categories = collect(json_decode(file_get_contents(config_path('award-categories.json')), true, flags: JSON_THROW_ON_ERROR));
+        $award = $categories->first(fn ($item) => $item['slug'] === $awardSlug && Str::slug($item['cluster']) === $clusterSlug);
+
+        abort_unless($award, 404);
+
+        return $this->page('pages.award', $award['name'], "Award details and candidate updates for {$award['name']}.")
+            ->with('award', $award)
+            ->with('clusterName', $award['cluster']);
+    }
+
     public function guidelines(): View
     {
         return $this->page('pages.guidelines', 'Guidelines', 'Eligibility, evaluation criteria, nomination process, key dates, rules and answers to common questions.');
