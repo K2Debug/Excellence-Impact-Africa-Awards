@@ -7,7 +7,7 @@
                 <p>Discover the people, teams and organisations making a lasting difference.</p>
                 <a href="{{ route('categories') }}">Explore categories <span aria-hidden="true">→</span></a>
             </div>
-            <div class="site-footer__callout-art" aria-hidden="true"></div>
+            <div class="site-footer__callout-art" aria-hidden="true"><img src="{{ asset('images/eiaa-logo-white.png') }}" alt=""></div>
         </section>
 
         <div class="site-footer__main">
