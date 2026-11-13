@@ -334,8 +334,58 @@ body > .site-header--overlay { position:absolute; top:0; right:0; left:0; }
 .cluster-detail__intro h2 { margin:0;font-size:clamp(30px,4vw,48px);line-height:1.1; }
 .cluster-detail__intro>p:last-child { margin:14px 0 0;color:var(--eiaa-muted);font-size:15px;line-height:1.75; }
 .cluster-detail__back { margin:32px 0 0; }
-.about-team__portrait { height:230px;margin:-24px -24px 22px;overflow:hidden;background:#dfe6ed; }
-.about-team__portrait img { width:100%;height:100%;object-fit:cover;object-position:center 30%; }
+.about-page { background:#e8edf2;padding:clamp(58px,8vw,112px) 32px clamp(80px,10vw,140px); }
+.about-page__inner { width:min(100%,1280px);margin:0 auto;display:flex;flex-direction:column;gap:clamp(76px,10vw,136px); }
+.about-story { display:grid;grid-template-columns:.9fr 1.1fr;gap:clamp(38px,7vw,96px);align-items:center; }
+.about-story__text { max-width:620px;margin-top:26px;display:grid;gap:16px;color:var(--eiaa-muted);font-size:15px;line-height:1.85; }
+.about-image { margin:0;overflow:hidden;background:#d9e0e7; }
+.about-image img { display:block;width:100%;height:100%;object-fit:cover; }
+.about-image--story { height:clamp(340px,42vw,540px); }
+.about-pillars { display:grid;grid-template-columns:1fr 1fr;gap:24px; }
+.about-pillar { min-height:270px;padding:clamp(34px,5vw,64px);background:#fff; }
+.about-pillar--mission { background:linear-gradient(145deg,#171947,#0e0f3b 70%,#172b58); }
+.about-pillar--mission .eyebrow { color:#b5cce2; }
+.about-pillar--vision { background:#e1e8ef; }
+.about-pillar h2 { max-width:480px;margin:0;font-size:clamp(30px,3.8vw,48px);line-height:1.06; }
+.about-pillar p:last-child { max-width:540px;margin:20px 0 0;color:var(--eiaa-muted);font-size:15px;line-height:1.8; }
+.about-pillar--mission p:last-child { color:rgba(255,255,255,.8); }
+.about-values__grid { display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px;margin-top:34px; }
+.about-values__grid article { min-height:210px;padding:26px;background:#fff;border-top:2px solid #aac4d9; }
+.about-values__grid h3 { margin:0;font-size:20px;line-height:1.2; }
+.about-values__grid p { margin:13px 0 0;color:var(--eiaa-muted);font-size:13px;line-height:1.7; }
+.about-context { display:grid;grid-template-columns:1.05fr .95fr;min-height:440px;background:var(--eiaa-deep); }
+.about-image--context { min-height:440px; }
+.about-context__copy { align-self:center;padding:clamp(34px,6vw,76px); }
+.about-context__copy h2 { margin:0;color:#fff;font-size:clamp(30px,4vw,50px);line-height:1.06; }
+.about-context__copy>div { display:grid;gap:16px;margin-top:22px;color:rgba(255,255,255,.78);font-size:14px;line-height:1.8; }
+.about-team__heading { max-width:760px;margin-bottom:38px; }
+.about-team__grid { display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:24px; }
+.about-team__grid article { min-width:0;background:#fff; }
+.about-team__image { height:clamp(220px,25vw,320px);overflow:hidden;background:#d9e0e7; }
+.about-team__image img { width:100%;height:100%;object-fit:cover;object-position:center 40%; }
+.about-team__person { padding:22px 24px 25px; }
+.about-team__person h3 { margin:0;font-size:21px; }
+.about-team__person p { margin:8px 0 0;color:var(--eiaa-muted);font-size:13px; }
+.about-team__note { margin:18px 0 0;color:var(--eiaa-muted);font-size:12px; }
+@media (max-width:900px) {
+ .about-page { padding-inline:24px; }
+ .about-values__grid { grid-template-columns:repeat(2,minmax(0,1fr)); }
+ .about-team__grid { gap:16px; }
+}
+@media (max-width:700px) {
+ .about-page { padding:56px 20px 78px; }
+ .about-page__inner { gap:64px; }
+ .about-story,.about-pillars,.about-context { grid-template-columns:1fr;gap:22px; }
+ .about-image--story { height:290px; }
+ .about-pillar { min-height:0;padding:30px 24px; }
+ .about-values__grid { grid-template-columns:1fr;gap:10px;margin-top:26px; }
+ .about-values__grid article { min-height:0;padding:22px; }
+ .about-image--context { min-height:0;height:270px; }
+ .about-context__copy { padding:30px 24px; }
+ .about-team__heading { margin-bottom:26px; }
+ .about-team__grid { grid-template-columns:1fr;gap:18px; }
+ .about-team__image { height:250px; }
+}
 .award-detail { background:#e8edf2;padding:58px 24px 100px; }
 .award-detail__inner { width:min(100%,1280px);margin:0 auto; }
 .award-detail__overview { display:grid;grid-template-columns:1fr 1fr;gap:22px; }
