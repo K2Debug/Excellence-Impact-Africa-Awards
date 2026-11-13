@@ -311,7 +311,7 @@ body > .site-header--overlay { position:absolute; top:0; right:0; left:0; }
 .award-cluster__title--3::after { background:linear-gradient(90deg,rgba(74,43,43,.91),rgba(117,72,59,.67) 56%,rgba(160,112,72,.34)); }
 .award-cluster__title--4::after { background:linear-gradient(90deg,rgba(24,53,60,.91),rgba(47,91,82,.67) 56%,rgba(93,133,103,.34)); }
 .award-cluster__title--5::after { background:linear-gradient(90deg,rgba(67,34,65,.91),rgba(111,61,91,.67) 56%,rgba(157,96,112,.34)); }
-.cluster-catalog { background:#f3f5f7;padding:48px 24px 100px; }
+.cluster-catalog { background:#e8edf2;padding:48px 24px 100px; }
 .cluster-catalog__inner { width:min(100%,1280px);margin:0 auto;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:22px; }
 .cluster-card { min-width:0;background:#fff; }
 .cluster-card__image { position:relative;display:block;height:clamp(190px,23vw,310px);overflow:hidden;background:#10164a; }
