@@ -143,9 +143,9 @@ a:hover { color:var(--eiaa-navy); }
 .closing-section h2 { max-width:850px;margin:7px 0 18px;color:white;font-size:clamp(42px,6vw,78px);line-height:1.02; }
 .closing-section>p:not(.eyebrow) { max-width:510px;margin:0;color:rgba(255,255,255,.78);font-size:14px;line-height:1.7; }
 .closing-section>a { margin-top:30px;padding:14px 0;border-bottom:1px solid rgba(255,255,255,.7); }
-.site-footer { position:relative;z-index:1;background:var(--eiaa-deep);color:#fff;padding:42px 32px 24px; }
+.site-footer { position:relative;z-index:1;background:var(--eiaa-deep);color:#fff;padding:0 32px 24px; }
 .site-footer__inner { width:min(100%,1280px);margin:0 auto; }
-.site-footer__callout { position:relative;isolation:isolate;min-height:295px;margin:0 0 0;overflow:hidden;border:1px solid rgba(255,255,255,.18);border-radius:18px;background:var(--eiaa-navy); }
+.site-footer__callout { position:relative;isolation:isolate;min-height:295px;margin:0 0 -148px;overflow:hidden;border:1px solid rgba(255,255,255,.18);border-radius:18px;background:var(--eiaa-navy);transform:translateY(-50%); }
 .site-footer__callout::before { position:absolute;z-index:-1;inset:0;background:radial-gradient(ellipse 54% 112% at 0% 100%,rgba(97,85,164,.5),transparent 72%),radial-gradient(ellipse 54% 100% at 100% 5%,rgba(40,120,217,.45),transparent 72%),linear-gradient(110deg,#171947 0%,#0E0F3B 62%,#172b58 100%);content:""; }
 .site-footer__callout-copy { position:relative;z-index:2;max-width:590px;padding:48px 52px; }
 .site-footer__callout-copy .eyebrow { margin-bottom:15px;color:var(--eiaa-sky); }
@@ -212,8 +212,8 @@ a:hover { color:var(--eiaa-navy); }
  .category-tile { min-height:235px; }
  .recognition-section { min-height:500px; }
  .judging-section { padding-bottom:72px; }
- .site-footer { padding:30px 20px 20px; }
- .site-footer__callout { min-height:290px; }
+ .site-footer { padding:0 20px 20px; }
+ .site-footer__callout { min-height:290px;margin-bottom:-145px; }
  .site-footer__callout-copy { padding:32px 24px; }
  .site-footer__callout h2 { max-width:410px;font-size:clamp(30px,8vw,42px); }
  .site-footer__callout-art { right:-34%;width:80%;opacity:.48; }
