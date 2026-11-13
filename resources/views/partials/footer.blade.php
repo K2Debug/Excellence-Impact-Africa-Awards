@@ -2,7 +2,6 @@
     <div class="site-footer__inner">
         <section class="site-footer__callout" aria-label="Explore the awards">
             <div class="site-footer__callout-copy">
-                <p class="eyebrow">Excellence Impact Africa Awards</p>
                 <h2>Celebrating work shaping Africa’s future.</h2>
                 <p>Discover the people, teams and organisations making a lasting difference.</p>
                 <a href="{{ route('categories') }}">Explore categories <span aria-hidden="true">→</span></a>
