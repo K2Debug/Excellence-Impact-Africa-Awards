@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ $description ?? $site['description'] }}">
     <link rel="canonical" href="{{ url()->current() }}">
-    <link rel="icon" href="{{ asset('images/hero-placeholder.svg') }}" type="image/svg+xml">
+    <link rel="icon" href="{{ asset('images/favicon.svg') }}" type="image/svg+xml">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="{{ $site['name'] }}">
     <meta property="og:title" content="{{ ($title ?? $site['short_name']) . ', ' . $site['short_name'] }}">
