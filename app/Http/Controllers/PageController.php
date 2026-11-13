@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\RedirectResponse;
 use Illuminate\Http\Request;
 use Illuminate\View\View;
+use Illuminate\Support\Str;
 
 class PageController extends Controller
 {
@@ -16,6 +17,21 @@ class PageController extends Controller
     public function categories(): View
     {
         return $this->page('pages.categories', 'Categories', 'Explore 200 award categories across 16 clusters recognising achievement and impact across Africa.');
+    }
+
+    public function cluster(string $slug): View
+    {
+        $clusters = collect(json_decode(file_get_contents(config_path('award-categories.json')), true, flags: JSON_THROW_ON_ERROR))
+            ->groupBy('cluster');
+        $cluster = $clusters->first(fn ($awards, $name) => Str::slug($name) === $slug);
+
+        abort_unless($cluster, 404);
+
+        $name = $cluster->first()['cluster'];
+
+        return $this->page('pages.cluster', $name, "Explore the awards in the {$name} cluster.")
+            ->with('clusterName', $name)
+            ->with('awards', $cluster);
     }
 
     public function guidelines(): View

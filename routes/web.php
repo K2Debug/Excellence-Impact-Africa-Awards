@@ -5,6 +5,7 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', [PageController::class, 'home'])->name('home');
 Route::get('/categories', [PageController::class, 'categories'])->name('categories');
+Route::get('/categories/{cluster}', [PageController::class, 'cluster'])->name('categories.cluster');
 Route::get('/guidelines', [PageController::class, 'guidelines'])->name('guidelines');
 Route::get('/judging', [PageController::class, 'judging'])->name('judging');
 Route::get('/about', [PageController::class, 'about'])->name('about');
