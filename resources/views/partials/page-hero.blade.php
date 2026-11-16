@@ -5,7 +5,7 @@
         <h1>{{ $heading }}</h1>
         <div class="home-hero__bottom">
             <p>{{ $intro }}</p>
-            <div class="home-hero__actions">@isset($action)<a href="{{ route($action['route']) }}">{{ $action['label'] }} <span aria-hidden="true">&rarr;</span></a>@endisset</div>
+            <div class="home-hero__actions">@isset($action)<a href="{{ route($action['route'], $action['params'] ?? []) }}">{{ $action['label'] }} <span aria-hidden="true">&rarr;</span></a>@endisset</div>
             <span class="home-hero__status">Nominations opening soon</span>
         </div>
     </div>

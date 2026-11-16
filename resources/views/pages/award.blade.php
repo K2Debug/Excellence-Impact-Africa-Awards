@@ -1,6 +1,6 @@
 @extends('layouts.app')
 @section('content')
-@include('partials.page-hero', ['eyebrow' => $clusterName, 'heading' => $award['name'], 'intro' => 'Award information, shared judging criteria and candidate updates.', 'action' => ['route' => 'categories.cluster', 'label' => 'Back to ' . $clusterName], 'index' => '02'])
+@include('partials.page-hero', ['eyebrow' => $clusterName, 'heading' => $award['name'], 'intro' => 'Award information, shared judging criteria and candidate updates.', 'action' => ['route' => 'categories.cluster', 'params' => ['cluster' => \Illuminate\Support\Str::slug($clusterName)], 'label' => 'Back to ' . $clusterName], 'index' => '02'])
 <section class="award-detail"><div class="award-detail__inner">
     <div class="award-detail__overview">
         <article class="award-detail__about"><p class="eyebrow">About this award</p><p>This award is part of {{ $clusterName }}. Its full description and eligibility requirements will be published once confirmed by the awards programme.</p><a class="text-link" href="{{ route('guidelines') }}">Review nomination guidelines</a></article>
