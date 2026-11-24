@@ -30,6 +30,12 @@ npm run build
 php artisan config:cache && php artisan view:cache
 ```
 
+## Deploying to Render
+
+The repository includes a `render.yaml` Blueprint and a Dockerfile. In Render, create a new **Blueprint** from this GitHub repository and deploy the `eiaa-website` web service. The Docker build installs production Composer dependencies and builds the Vite assets into `public/build`; Laravel serves both the site and those static assets. Render supplies the listening port and public URL, and the Blueprint generates `APP_KEY` for the service.
+
+The service uses file-backed cache and sessions and does not require a database. Set `APP_URL` in the Render service environment only if you need to override Render's automatically detected public URL (for example, when using a custom domain). Contact form submissions are still validated but are not emailed; mail delivery needs to be configured separately.
+
 ## Pages & routes
 
 All page routes are defined in `routes/web.php` and served by `App\Http\Controllers\PageController`:

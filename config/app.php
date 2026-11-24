@@ -4,7 +4,7 @@ return [
     'name' => env('APP_NAME', 'EIAA'),
     'env' => env('APP_ENV', 'production'),
     'debug' => (bool) env('APP_DEBUG', false),
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', env('RENDER_EXTERNAL_URL', 'http://localhost')),
     'timezone' => 'Africa/Accra',
     'locale' => 'en_GB',
     'fallback_locale' => 'en',
